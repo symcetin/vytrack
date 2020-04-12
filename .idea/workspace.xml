@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -15,12 +18,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1aS7aJybe0bYQ4ks0C79JQNryxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/vytrack/tests" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -76,21 +81,21 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="812" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1680.23.1920.1057/0.23.1680.955@0.23.1680.955" timestamp="1586717309851" />
-    <state width="845" height="256" key="GridCell.Tab.0.bottom" timestamp="1586718241618">
+    <state width="845" height="256" key="GridCell.Tab.0.bottom" timestamp="1586718569366">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="845" height="256" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718241618" />
-    <state width="845" height="256" key="GridCell.Tab.0.center" timestamp="1586718241612">
+    <state width="845" height="256" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718569366" />
+    <state width="845" height="256" key="GridCell.Tab.0.center" timestamp="1586718569363">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="845" height="256" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718241612" />
-    <state width="845" height="256" key="GridCell.Tab.0.left" timestamp="1586718241611">
+    <state width="845" height="256" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718569363" />
+    <state width="845" height="256" key="GridCell.Tab.0.left" timestamp="1586718569360">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="845" height="256" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718241611" />
-    <state width="845" height="256" key="GridCell.Tab.0.right" timestamp="1586718241614">
+    <state width="845" height="256" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718569360" />
+    <state width="845" height="256" key="GridCell.Tab.0.right" timestamp="1586718569365">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="845" height="256" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718241614" />
+    <state width="845" height="256" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1586718569365" />
   </component>
 </project>
